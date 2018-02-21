@@ -1,6 +1,6 @@
 {
   "name": "gud",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create a 'gud nuff' (not cryptographically secure) globally unique id",
   "main": "index.js",
   "repository": "https://github.com/jamiebuilds/global-unique-id",
